@@ -26,6 +26,8 @@ li{
 
 a{
    color: black;
+   display: inline-block;
+   margin: 5px;
 }
 
 a:visited{
